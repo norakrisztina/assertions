@@ -193,5 +193,7 @@ public class Main {
 }
 Elso modositas uj sor
 Masodik modositas uj sor
+Harmadik modositas
+Negyedik modositas
 
 
