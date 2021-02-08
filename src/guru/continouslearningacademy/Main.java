@@ -195,5 +195,5 @@ Elso modositas uj sor
 Masodik modositas uj sor
 Harmadik modositas
 Negyedik modositas
-
+x-edik modositas
 
